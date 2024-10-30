@@ -1,0 +1,9 @@
+#insitelogin_options .insitelogin_width {
+	width:400px;
+}
+#insitelogin_options textarea {
+	height:300px;
+}
+#insitelogin_options td {
+	vertical-align:top;
+}
